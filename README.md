@@ -10,17 +10,7 @@ API contains register and logging of user. As you start you must register new ac
 
 CustomTasks methods are opened only for logged users. 
 Each user has his personal tasks , so you can update and delete only tasks that you have created.
-----
-#Entities
-| CustomTask  |  SmartTask  | 
-|-------------|:-----------:|  
-| Title       | Title       | 
-| Description | Description | 
-| Importance  | Importance  | 
-| DueDate     | DueDate     | 
-| IsCompleted | IsCompleted | 
-| UserId      | UserId      | 
-----
+
 # Build and Test
 TODO: To start application just clone repository and follow steps:
 1.	Go to ToDoListRESTfulApi-Levi9TechnicalTask\TasksListAPI folder
